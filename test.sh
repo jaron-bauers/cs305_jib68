@@ -19,3 +19,5 @@ done <"$FILE"
 printf "%s        $now\n" "${array[@]}" > test.log
 
 #push changes to github
+git commit -am 'updated: test.log'
+git push origin main
