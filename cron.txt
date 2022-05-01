@@ -1,0 +1,1 @@
+*/10 * * * * /home/jib68/cs305_jib68/test.sh /home/jib68/cs305_jib68/lines.txt
